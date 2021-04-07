@@ -1,0 +1,7 @@
+admin:
+milica@gmail.com
+milica123
+
+korisnik:
+pera@gmail.com
+pera123456
